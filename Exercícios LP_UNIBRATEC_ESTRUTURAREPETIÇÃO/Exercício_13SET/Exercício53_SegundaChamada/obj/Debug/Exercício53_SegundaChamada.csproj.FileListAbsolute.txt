@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercícios_13SET\Exercício53_SegundaChamada\bin\Debug\Exercício53_SegundaChamada.exe.config
+C:\Users\Lí\source\repos\Exercícios_13SET\Exercício53_SegundaChamada\bin\Debug\Exercício53_SegundaChamada.exe
+C:\Users\Lí\source\repos\Exercícios_13SET\Exercício53_SegundaChamada\bin\Debug\Exercício53_SegundaChamada.pdb
+C:\Users\Lí\source\repos\Exercícios_13SET\Exercício53_SegundaChamada\obj\Debug\Exercício53_SegundaChamada.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_13SET\Exercício53_SegundaChamada\obj\Debug\Exercício53_SegundaChamada.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_13SET\Exercício53_SegundaChamada\obj\Debug\Exercício53_SegundaChamada.exe
+C:\Users\Lí\source\repos\Exercícios_13SET\Exercício53_SegundaChamada\obj\Debug\Exercício53_SegundaChamada.pdb

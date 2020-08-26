@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício49_MaiorIdade\bin\Debug\Exercício49_MaiorIdade.exe.config
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício49_MaiorIdade\bin\Debug\Exercício49_MaiorIdade.exe
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício49_MaiorIdade\bin\Debug\Exercício49_MaiorIdade.pdb
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.exe
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercício_11SET\Exercício49_MaiorIdade\bin\Debug\Exercício49_MaiorIdade.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercício_11SET\Exercício49_MaiorIdade\bin\Debug\Exercício49_MaiorIdade.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercício_11SET\Exercício49_MaiorIdade\bin\Debug\Exercício49_MaiorIdade.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercício_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercício_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercício_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercício_11SET\Exercício49_MaiorIdade\obj\Debug\Exercício49_MaiorIdade.pdb

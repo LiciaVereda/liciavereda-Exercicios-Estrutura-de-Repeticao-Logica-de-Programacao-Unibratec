@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício51_maiorIdade\bin\Debug\Exercício51_maiorIdade.exe.config
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício51_maiorIdade\bin\Debug\Exercício51_maiorIdade.exe
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício51_maiorIdade\bin\Debug\Exercício51_maiorIdade.pdb
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício51_maiorIdade\obj\Debug\Exercício51_maiorIdade.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício51_maiorIdade\obj\Debug\Exercício51_maiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício51_maiorIdade\obj\Debug\Exercício51_maiorIdade.exe
+C:\Users\aluno\source\repos\Exercícios_11SET\Exercício51_maiorIdade\obj\Debug\Exercício51_maiorIdade.pdb

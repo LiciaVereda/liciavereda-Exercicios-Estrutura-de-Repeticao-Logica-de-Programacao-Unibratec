@@ -1,0 +1,14 @@
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\DataComMesPorExtenso\bin\Debug\DataComMesPorExtenso.exe.config
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\DataComMesPorExtenso\bin\Debug\DataComMesPorExtenso.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\DataComMesPorExtenso\bin\Debug\DataComMesPorExtenso.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.csprojAssemblyReference.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.csproj.CoreCompileInputs.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\DataComMesPorExtenso\bin\Debug\DataComMesPorExtenso.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\DataComMesPorExtenso\bin\Debug\DataComMesPorExtenso.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\DataComMesPorExtenso\bin\Debug\DataComMesPorExtenso.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\DataComMesPorExtenso\obj\Debug\DataComMesPorExtenso.pdb

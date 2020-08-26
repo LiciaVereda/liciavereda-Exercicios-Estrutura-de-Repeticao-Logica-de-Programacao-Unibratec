@@ -1,0 +1,14 @@
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto2\bin\Debug\Exercício_InverterTexto2.exe.config
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto2\bin\Debug\Exercício_InverterTexto2.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto2\bin\Debug\Exercício_InverterTexto2.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.csprojAssemblyReference.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.csproj.CoreCompileInputs.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto2\bin\Debug\Exercício_InverterTexto2.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto2\bin\Debug\Exercício_InverterTexto2.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto2\bin\Debug\Exercício_InverterTexto2.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto2\obj\Debug\Exercício_InverterTexto2.pdb

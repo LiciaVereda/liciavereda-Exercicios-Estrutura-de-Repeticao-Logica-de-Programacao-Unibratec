@@ -1,0 +1,14 @@
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto\bin\Debug\Exercício_InverterTexto.exe.config
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto\bin\Debug\Exercício_InverterTexto.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto\bin\Debug\Exercício_InverterTexto.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto\obj\Debug\Exercício_IntercalarTexto.csprojAssemblyReference.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto\obj\Debug\Exercício_IntercalarTexto.csproj.CoreCompileInputs.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto\obj\Debug\Exercício_InverterTexto.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_InverterTexto\obj\Debug\Exercício_InverterTexto.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto\bin\Debug\Exercício_InverterTexto.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto\bin\Debug\Exercício_InverterTexto.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto\bin\Debug\Exercício_InverterTexto.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto\obj\Debug\Exercício_IntercalarTexto.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto\obj\Debug\Exercício_IntercalarTexto.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto\obj\Debug\Exercício_InverterTexto.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\1º Unidade\Exercícios LP_UNIBRATEC_ESTRUTURAREPETIÇÃO\Exercício_20SET\Exercício_InverterTexto\obj\Debug\Exercício_InverterTexto.pdb

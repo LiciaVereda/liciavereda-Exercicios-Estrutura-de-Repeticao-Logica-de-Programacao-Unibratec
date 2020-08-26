@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Exercícios_11SET\Exerc50_MaiorIdadeExceção\bin\Debug\Exerc50_MaiorIdadeExceção.exe.config
+C:\Users\aluno\source\repos\Exercícios_11SET\Exerc50_MaiorIdadeExceção\bin\Debug\Exerc50_MaiorIdadeExceção.exe
+C:\Users\aluno\source\repos\Exercícios_11SET\Exerc50_MaiorIdadeExceção\bin\Debug\Exerc50_MaiorIdadeExceção.pdb
+C:\Users\aluno\source\repos\Exercícios_11SET\Exerc50_MaiorIdadeExceção\obj\Debug\Exerc50_MaiorIdadeExceção.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\Exercícios_11SET\Exerc50_MaiorIdadeExceção\obj\Debug\Exerc50_MaiorIdadeExceção.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Exercícios_11SET\Exerc50_MaiorIdadeExceção\obj\Debug\Exerc50_MaiorIdadeExceção.exe
+C:\Users\aluno\source\repos\Exercícios_11SET\Exerc50_MaiorIdadeExceção\obj\Debug\Exerc50_MaiorIdadeExceção.pdb

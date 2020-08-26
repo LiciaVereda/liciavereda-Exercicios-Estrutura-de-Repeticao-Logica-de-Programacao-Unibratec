@@ -1,0 +1,65 @@
+namespace Exercicio
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string placa, mes = "";
+            double valorCarro, acumJan=0, acumFev=0, acumMar=0, acumAbr=0, acumGeral=0;
+            int final;
+            const double perc_Ipva = 0.1;
+
+            for (int i = 0; i < 6; i++)
+            {
+                Console.Write("Placa: ");
+                placa = Console.ReadLine();
+                Console.Write("Valor: ");
+                valorCarro = Convert.ToDouble(Console.ReadLine());
+
+                final = Convert.ToInt32(placa.Substring(placa.Length - 1, 1));
+
+                if (final == 0)
+                {
+                    mes = "ABRIL";
+                    acumAbr = acumAbr + valorCarro * perc_Ipva;
+                }
+                else
+                {
+                    if (final <= 3)
+                    {
+                        mes = "JANEIRO";
+                        acumJan = acumJan + valorCarro * perc_Ipva;
+                    }
+                    else
+                    {
+                        if (final <= 6)
+                        {
+                            mes = "FEVEREIRO";
+                            acumFev = acumFev + valorCarro * perc_Ipva;
+                        }
+                        else
+                        {
+                            mes = "MARÇO";
+                            acumMar = acumMar + valorCarro * perc_Ipva;
+                        }
+
+                    }
+
+                }
+                Console.WriteLine();
+                Console.WriteLine("Paga IPVA em " + mes);
+            }
+
+            acumGeral = acumJan + acumFev + acumMar + acumAbr;
+            Console.WriteLine();
+            Console.WriteLine("Valor arrecardado em JANEIRO   {0,12:F2}: R$", acumJan);
+            Console.WriteLine("Valor arrecardado em FEVEREIRO {0,12:F2}: R$", acumFev);
+            Console.WriteLine("Valor arrecardado em MARÇO     {0,12:F2}: R$", acumMar);
+            Console.WriteLine("Valor arrecardado em ABRIL     {0,12:F2}: R$", acumAbr);
+            Console.WriteLine("Total arrecardado              {0,12:F2}: R$", acumGeral);
+
+            Console.ReadKey();
+
+        }
+    }
+}

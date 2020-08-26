@@ -1,0 +1,7 @@
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_AlunosPorTurma\bin\Debug\Exercício_AlunosPorTurma.exe.config
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_AlunosPorTurma\bin\Debug\Exercício_AlunosPorTurma.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_AlunosPorTurma\bin\Debug\Exercício_AlunosPorTurma.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_AlunosPorTurma\obj\Debug\Exercício_AlunosPorTurma.csprojAssemblyReference.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_AlunosPorTurma\obj\Debug\Exercício_AlunosPorTurma.csproj.CoreCompileInputs.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_AlunosPorTurma\obj\Debug\Exercício_AlunosPorTurma.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_20SET\Exercício_AlunosPorTurma\obj\Debug\Exercício_AlunosPorTurma.pdb

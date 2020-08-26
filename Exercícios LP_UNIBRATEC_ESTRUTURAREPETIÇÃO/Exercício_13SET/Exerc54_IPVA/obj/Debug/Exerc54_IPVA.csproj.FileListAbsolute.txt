@@ -1,0 +1,14 @@
+C:\Users\Lí\source\repos\Exercícios_13SET\Exerc54_IPVA\bin\Debug\Exerc54_IPVA.exe.config
+C:\Users\Lí\source\repos\Exercícios_13SET\Exerc54_IPVA\bin\Debug\Exerc54_IPVA.exe
+C:\Users\Lí\source\repos\Exercícios_13SET\Exerc54_IPVA\bin\Debug\Exerc54_IPVA.pdb
+C:\Users\Lí\source\repos\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.exe
+C:\Users\Lí\source\repos\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_13SET\Exerc54_IPVA\bin\Debug\Exerc54_IPVA.exe.config
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_13SET\Exerc54_IPVA\bin\Debug\Exerc54_IPVA.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_13SET\Exerc54_IPVA\bin\Debug\Exerc54_IPVA.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.csprojAssemblyReference.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.csproj.CoreCompileInputs.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_13SET\Exerc54_IPVA\obj\Debug\Exerc54_IPVA.pdb
